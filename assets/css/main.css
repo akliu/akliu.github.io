@@ -282,6 +282,16 @@ a:after {
   font-size: 96px;
 }
 
+.icon {
+  height: 25px;
+  width: 25px;
+}
+
+.git-icon {
+  height: 36px;
+  width: 36px;
+}
+
 
 sm {
 	font-size: 12px;
